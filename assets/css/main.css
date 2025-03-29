@@ -1172,6 +1172,7 @@ section,
   background: #fd7e14;
 }
 
+
 .services .service-item.item-orange {
   border-bottom: 3px solid #f14141;
 }
@@ -1190,45 +1191,46 @@ section,
 }
 
 .services .service-item.item-teal {
-  border-bottom: 3px solid #4154f1;
+  border-bottom: 3px solid #0b1566;
 }
 
 .services .service-item.item-teal .icon {
-  color: #4154f1;
+  color: #0b1566;
   background: rgba(32, 201, 151, 0.1);
 }
 
 .services .service-item.item-teal .read-more {
-  color: #071377;
+  color: #0b1566;
 }
 
 .services .service-item.item-teal:hover {
-  background: #071377;
+  background: #0b1566;
 }
 
+
 .services .service-item.item-red {
-  border-bottom: 3px solid #071377;
+  border-bottom: 3px solid #4154f1;
 }
 
 .services .service-item.item-red .icon {
-  color: #071377;
+  color: #4154f1;
   background: rgba(223, 21, 4, 0.1);
 }
 
 .services .service-item.item-red .read-more {
-  color: #071377;
+  color: #4154f1;
 }
 
 .services .service-item.item-red:hover {
-  background: #071377;
+  background: #4154f1;
 }
 
 .services .service-item.item-indigo {
-  border-bottom: 3px solid #071377;
+  border-bottom: 3px solid #4154f1;
 }
 
 .services .service-item.item-indigo .icon {
-  color: #071377;
+  color: #4154f1
   background: rgba(102, 16, 242, 0.1);
 }
 
@@ -1237,7 +1239,7 @@ section,
 }
 
 .services .service-item.item-indigo:hover {
-  background: #4154f1;
+  background: #6610f2;
 }
 
 .services .service-item.item-pink {
