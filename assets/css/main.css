@@ -1190,6 +1190,37 @@ section,
   background: #f14141;
 }
 
+
+.services .service-item.item-majenta {
+  border-bottom: 3px solid #ff00ff;
+}
+
+.services .service-item.item-majenta .icon {
+  color: #ff00ff;
+  background: rgba(253, 126, 20, 0.1);
+}
+
+.services .service-item.item-majenta .read-more {
+  color: #ff00ff;
+}
+
+.services .service-item.item-majenta:hover {
+  background: #ff00ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .services .service-item.item-teal {
   border-bottom: 3px solid #0b1566;
 }
